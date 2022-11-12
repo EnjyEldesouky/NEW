@@ -2,7 +2,12 @@ enjy mahmoud ibrahim eldesouky ahmed
 hello!
 x=3
 y=4
+<<<<<<< Updated upstream
 z=7
 ;;
 ;
 m
+=======
+z=7
+>>>>>>> Stashed changes
+c=50
